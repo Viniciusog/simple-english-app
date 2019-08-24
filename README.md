@@ -1,2 +1,2 @@
 # simple-english-app
-Aplicativo simples para praticar Abas e MediaPlayer em Android
+Simple app to practice Tabs and MediaPlayer on Android
